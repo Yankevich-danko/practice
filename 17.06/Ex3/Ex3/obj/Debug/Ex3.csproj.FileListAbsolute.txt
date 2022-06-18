@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\practice3\Ex3\Ex3\bin\Debug\Ex3.exe.config
+C:\Users\user\Desktop\practice3\Ex3\Ex3\bin\Debug\Ex3.exe
+C:\Users\user\Desktop\practice3\Ex3\Ex3\bin\Debug\Ex3.pdb
+C:\Users\user\Desktop\practice3\Ex3\Ex3\obj\Debug\Ex3.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\practice3\Ex3\Ex3\obj\Debug\Ex3.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\practice3\Ex3\Ex3\obj\Debug\Ex3.exe
+C:\Users\user\Desktop\practice3\Ex3\Ex3\obj\Debug\Ex3.pdb
