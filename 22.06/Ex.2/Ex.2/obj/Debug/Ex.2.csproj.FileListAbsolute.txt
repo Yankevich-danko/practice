@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\Practice6\Ex.2\Ex.2\bin\Debug\Ex.2.exe.config
+C:\Users\user\Desktop\Practice6\Ex.2\Ex.2\bin\Debug\Ex.2.exe
+C:\Users\user\Desktop\Practice6\Ex.2\Ex.2\bin\Debug\Ex.2.pdb
+C:\Users\user\Desktop\Practice6\Ex.2\Ex.2\obj\Debug\Ex.2.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Practice6\Ex.2\Ex.2\obj\Debug\Ex.2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Practice6\Ex.2\Ex.2\obj\Debug\Ex.2.exe
+C:\Users\user\Desktop\Practice6\Ex.2\Ex.2\obj\Debug\Ex.2.pdb
